@@ -708,7 +708,7 @@ if option == 1:
 
  
 
-	print(B+"Results saved to : "+acc+".txt")
+	print(B+"Results saved to               : "+acc+".txt")
 
 
 
