@@ -261,9 +261,9 @@ if option == 1:
 		print(R+"[!] Medium             : Not found ! ")
 
 	if (rdevianart.ok) == True:
-		print(G+"[+] DevianART          : Found     !   "+"https://"+acc+"devianart.com/")
+		print(G+"[+] DevianART          : Found     !   "+"https://"+acc+".devianart.com/")
 
-		file.write("[+] DevianART       : Found     !   "+"https://"+acc+"devianart.com/"+"\n")
+		file.write("[+] DevianART       : Found     !   "+"https://"+acc+".devianart.com/"+"\n")
 
 	elif (rdevianart.ok) == False:
 		print(R+"[!] DevianART          : Not found ! ")
